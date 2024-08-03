@@ -35,7 +35,7 @@ public class Program
             options.AllowAnyMethod();
             options.AllowAnyOrigin();
         });
-
+ 
 
         app.UseHttpsRedirection();
 

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{23601388-F5FA-4EE9-A6E3-FAE0DA9CA555}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackEnd", "BackEnd", "{56C0389D-2DB0-4F7B-B68C-9FE9BCFA8492}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd.API", "BackEnd.API\BackEnd.API.csproj", "{E94EE774-10C3-4E35-BEF0-1C1D7EA6CE7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackEnd.API", "BackEnd.API\BackEnd.API.csproj", "{E94EE774-10C3-4E35-BEF0-1C1D7EA6CE7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{E4487E52-0FE6-4F4E-B968-BB7AF70A6FDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
